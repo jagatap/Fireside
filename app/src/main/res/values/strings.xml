@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fireside Weather Report</string>
+    <string name="get_weather_deatails">Get Weather Deatails</string>
+</resources>
